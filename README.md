@@ -10,12 +10,6 @@ A lightweight and efficient Command Line Interface (CLI) automation tool written
 - **Root File Consolidation:** Gathers all remaining loose files in the root source directory and backs them up into a single dedicated archive (`__pliki-$DATA.zip`).
 - **Quiet Error Handling:** Suppresses unnecessary standard error outputs during root file zipping for a cleaner console experience.
 
-## 🛠️ Requirements
-
-- Linux/Unix environment
-- `bash` (Bourne Again SHell)
-- `zip` utility installed (`sudo apt install zip` on Debian/Ubuntu)
-
 ## 📖 Usage
 
 Clone the repository and make the script executable:
